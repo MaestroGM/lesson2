@@ -23,3 +23,8 @@ git merge <ветка>
 ```sh
 git branch -d <ветка>
 ```
+
+Для того чтобы посмотреть в каких ветках были commit 
+```sh
+git log -graph
+```
