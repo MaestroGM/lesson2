@@ -5,3 +5,12 @@
 git branch
 ```
 
+Создать новую ветку
+```sh
+git branch <name>
+```
+
+Перейти в другую ветку
+```sh
+git checkout <name>
+```
